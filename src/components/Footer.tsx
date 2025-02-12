@@ -24,16 +24,16 @@ const Footer = () => {
         </div>
         <div>
           <div className="flex gap-8 text-accent text-2xl pt-16">
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Asmayaseen" target="_blank" rel="noopener noreferrer">
               <FaGithub />
             </a>
-            <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/AsmaYaseen" target="_blank" rel="noopener noreferrer">
               <FaLinkedinIn />
             </a>
-            <a href="https://www.instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/asma436743" target="_blank" rel="noopener noreferrer">
               <FaInstagram />
             </a>
-            <a href="https://www.facebook.com/yourusername" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.facebook.com/MaliktowalAndfabrics" target="_blank" rel="noopener noreferrer">
               <FaFacebookF />
             </a>
           </div>
